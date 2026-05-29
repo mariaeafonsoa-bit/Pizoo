@@ -1,0 +1,6 @@
+{
+  "name": "SecureChat",
+  "description": "Secure Chat app featuring end-to-end encryption (E2EE), disappearing messages, view-once media, group administration controls, dynamic screenshot blocking, and high-quality secure calling simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
